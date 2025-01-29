@@ -1,9 +1,54 @@
-# React TypeScript Starter Pack
+<h1 align="center">React Phone Catalog</h1>
 
-To use this template click `Use this template`
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Classnames-2D2D2D?style=for-the-badge&logo=classnames&logoColor=white" alt="Classnames" />
+</p>
 
-### Available Scripts
+React-based phone catalog application that showcases a variety of phones, tablets, and accessories. The application features advanced animations for the header, banners, sliders and categories, providing a smooth and engaging user experience.
 
-`Deploy` - available to deploy your application to gh-pages
+## Features
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+- **Advanced Animations**: Smooth animations for the header, banners, sliders and category elements.
+- **Product Catalog**: Browse through a wide range of phones, tablets, and accessories.
+- **Product Details**: View detailed information about each product.
+- **Favourites**: Add products to your favourites list.
+- **Cart**: Add products to your cart and manage your shopping list.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **TypeScript**: Typed superset of JavaScript.
+- **Vite**: Next-generation frontend tooling.
+- **Sass**: CSS preprocessor for styling.
+- **React Router**: Declarative routing for React applications.
+- **Classnames**: Utility for conditionally joining classNames.
+- **Local Storage**: For storing cart and favourites data.
+
+## Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/deezhizyu/react-phone-catalog.git
+cd react-phone-catalog
+```
+
+2. Install dependencies:
+
+```sh
+npm install
+```
+
+3. Start the development server:
+
+```sh
+npm start
+```
+
+4. Open your browser and navigate to http://localhost:3000.
