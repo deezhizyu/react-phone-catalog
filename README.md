@@ -1,15 +1,19 @@
-<h1 align="center">React Phone Catalog</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Classnames-2D2D2D?style=for-the-badge&logo=classnames&logoColor=white" alt="Classnames" />
-</p>
+# React Phone Catalog
 
 React-based phone catalog application that showcases a variety of phones, tablets, and accessories. The application features advanced animations for the header, banners, sliders and categories, providing a smooth and engaging user experience.
+
+[DEMO LINK](https://deezhizyu.github.io/react-phone-catalog/)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Classnames](https://img.shields.io/badge/Classnames-2D2D2D?style=for-the-badge&logo=classnames&logoColor=white)
+
+</div>
 
 ## Features
 
@@ -51,4 +55,4 @@ npm install
 npm start
 ```
 
-4. Open your browser and navigate to http://localhost:3000.
+4. Open your browser and navigate to http://localhost:5173.
